@@ -1,0 +1,14 @@
+C:\Workspace Code Academy\Array-Methods-Datetime\Array-Methods-Datetime\bin\Debug\net6.0\Array-Methods-Datetime.exe
+C:\Workspace Code Academy\Array-Methods-Datetime\Array-Methods-Datetime\bin\Debug\net6.0\Array-Methods-Datetime.deps.json
+C:\Workspace Code Academy\Array-Methods-Datetime\Array-Methods-Datetime\bin\Debug\net6.0\Array-Methods-Datetime.runtimeconfig.json
+C:\Workspace Code Academy\Array-Methods-Datetime\Array-Methods-Datetime\bin\Debug\net6.0\Array-Methods-Datetime.dll
+C:\Workspace Code Academy\Array-Methods-Datetime\Array-Methods-Datetime\bin\Debug\net6.0\Array-Methods-Datetime.pdb
+C:\Workspace Code Academy\Array-Methods-Datetime\Array-Methods-Datetime\obj\Debug\net6.0\Array-Methods-Datetime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace Code Academy\Array-Methods-Datetime\Array-Methods-Datetime\obj\Debug\net6.0\Array-Methods-Datetime.AssemblyInfoInputs.cache
+C:\Workspace Code Academy\Array-Methods-Datetime\Array-Methods-Datetime\obj\Debug\net6.0\Array-Methods-Datetime.AssemblyInfo.cs
+C:\Workspace Code Academy\Array-Methods-Datetime\Array-Methods-Datetime\obj\Debug\net6.0\Array-Methods-Datetime.csproj.CoreCompileInputs.cache
+C:\Workspace Code Academy\Array-Methods-Datetime\Array-Methods-Datetime\obj\Debug\net6.0\Array-Methods-Datetime.dll
+C:\Workspace Code Academy\Array-Methods-Datetime\Array-Methods-Datetime\obj\Debug\net6.0\refint\Array-Methods-Datetime.dll
+C:\Workspace Code Academy\Array-Methods-Datetime\Array-Methods-Datetime\obj\Debug\net6.0\Array-Methods-Datetime.pdb
+C:\Workspace Code Academy\Array-Methods-Datetime\Array-Methods-Datetime\obj\Debug\net6.0\Array-Methods-Datetime.genruntimeconfig.cache
+C:\Workspace Code Academy\Array-Methods-Datetime\Array-Methods-Datetime\obj\Debug\net6.0\ref\Array-Methods-Datetime.dll
